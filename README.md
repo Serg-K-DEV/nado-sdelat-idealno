@@ -1,1 +1,1 @@
-https://github.com/Serg-K-DEV/nado_sdelat_idealno-main
+https://github.com/Serg-K-DEV/nado-sdelat-idealno
